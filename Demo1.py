@@ -7,3 +7,6 @@ for i in lst:
   print(i)
 print("I have done some changes")
 print("Hey i have done some more changes ")
+x=(1,2,3,4,5)
+print("The tuple is ",x)
+
